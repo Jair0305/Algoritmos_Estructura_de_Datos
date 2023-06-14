@@ -1,0 +1,15 @@
+Esta es la linea de texto numero 1
+Esta es la linea de texto numero 2
+Esta es la linea de texto numero 3
+Esta es la linea de texto numero 4
+Esta es la linea de texto numero 5
+Esta es la linea de texto numero 6
+Esta es la linea de texto numero 7
+Esta es la linea de texto numero 8
+Esta es la linea de texto numero 9
+Esta es la linea de texto numero 10
+0.000000
+3.141600
+6.283200
+9.424800
+12.566400
